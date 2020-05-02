@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on 【沖縄県版】新型コロナウイルスに伴う支援策</title>
+    <link>./jp/features/</link>
+    <description>Recent content in Features on 【沖縄県版】新型コロナウイルスに伴う支援策</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="./jp/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
