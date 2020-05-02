@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"
+#baseURL = "http://localhost:1313/"
+baseURL = "festive-hoover-58f818.netlify.app"
 languageCode = "ja-jp"
 title = "【沖縄県版】新型コロナウイルスに伴う支援策"
 theme = "dot"

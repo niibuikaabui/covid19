@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manage My Sprint account on 【沖縄県版】新型コロナウイルスに伴う支援策</title>
-    <link>http://localhost:1313/billing-pricing/manage/</link>
+    <link>festive-hoover-58f818.netlify.app/billing-pricing/manage/</link>
     <description>Recent content in Manage My Sprint account on 【沖縄県版】新型コロナウイルスに伴う支援策</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/billing-pricing/manage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="festive-hoover-58f818.netlify.app/billing-pricing/manage/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

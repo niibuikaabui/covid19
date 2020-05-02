@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Got Any Questions on 【沖縄県版】新型コロナウイルスに伴う支援策</title>
-    <link>http://localhost:1313/contact/</link>
+    <link>festive-hoover-58f818.netlify.app/contact/</link>
     <description>Recent content in Got Any Questions on 【沖縄県版】新型コロナウイルスに伴う支援策</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="festive-hoover-58f818.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
